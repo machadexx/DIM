@@ -19,8 +19,10 @@ Caderno Digital - UC Desenvolvimento de Interfaces Multimédia '22
    **No mundo virtual:**
    ![AffordancesAndSignifiersVirtual](https://user-images.githubusercontent.com/72624424/192385837-883d78b1-3246-4d4f-8b9c-8144b6d3f3ee.png)
    
+   (falta feedback)
+   
    ### Reflexão
    Em suma, interpreto estes conceitos como: Affordances remete para a interação física que temos com objetos/interfaces e Signifiers representam a interação cognitiva.
-
+    
 ## Processo em Quatro Etapas
-(to do)
+(to do+ exemplo do Notion como app)
