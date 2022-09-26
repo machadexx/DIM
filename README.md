@@ -11,6 +11,9 @@ Caderno Digital - UC Desenvolvimento de Interfaces Multimédia '22
   Affordances VS Signifiers
   [Missing Signifier - Intro to the Design of Everyday Things](https://www.youtube.com/watch?v=aYOXN0i9i24)
   
-  ![AffordancesAndSignifiers](https://user-images.githubusercontent.com/72624424/192385414-3fe70afb-b800-440c-a04a-b6a3c22eded6.png)
+  No mundo físico:
+  ![AffordancesAndSignifiersIRL](https://user-images.githubusercontent.com/72624424/192385414-3fe70afb-b800-440c-a04a-b6a3c22eded6.png)
 
-   
+   No mundo virtual:
+   ![AffordancesAndSignifiersVirtual](https://user-images.githubusercontent.com/72624424/192385837-883d78b1-3246-4d4f-8b9c-8144b6d3f3ee.png)
+   ___
