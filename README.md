@@ -8,7 +8,8 @@ Caderno Digital - UC Desenvolvimento de Interfaces Multimédia '22
   
   [Definition: Affordance - Intro to the Design of Everyday Things](https://www.youtube.com/watch?v=a6F0EYCUjcE)
   
-  Affordances VS Signifiers
+  Affordances VS Signifiers : Interessante exemplo da "falta" de um elemento signifier
+  
   [Missing Signifier - Intro to the Design of Everyday Things](https://www.youtube.com/watch?v=aYOXN0i9i24)
   
   **No mundo físico:**
@@ -17,4 +18,10 @@ Caderno Digital - UC Desenvolvimento de Interfaces Multimédia '22
 
    **No mundo virtual:**
    ![AffordancesAndSignifiersVirtual](https://user-images.githubusercontent.com/72624424/192385837-883d78b1-3246-4d4f-8b9c-8144b6d3f3ee.png)
+   
+   ### Reflexão
+      Em suma, interpreto estes conceitos como: Affordances remete para a interação física que temos com objetos/interfaces e Signifiers representam a interação cognitiva.
    ___
+
+## Processo em Quatro Etapas
+(to do)
