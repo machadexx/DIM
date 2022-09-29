@@ -25,6 +25,7 @@ Caderno Digital - UC Desenvolvimento de Interfaces Multimédia '22
    Em suma, interpreto estes conceitos como: Affordances remete para a interação física que temos com objetos/interfaces e Signifiers representam a interação cognitiva.
     
 ## Processo em Quatro Etapas
+(29.09.2022)
 1.Identificar Requisitos/Necessidades - **Compreender o problema** -
 
 2.Design(Planeamento) de Alternativas
