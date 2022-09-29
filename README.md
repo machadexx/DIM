@@ -38,7 +38,7 @@ O Processo é **iterativo** pq depois da fase 4 voltamos à fase 1 → Cíclico
 
 ##Exemplo pessoal
 
-Recentemente, descobri uma aplicação de registo de notas online, o (**Notion**)[https://www.notion.so]. Esta plataforma munida dos mais variados templates, com um aspeto minimalista, pretende substituir os tradicionais cadernos e tornar a mobilidade e o acesso valores fundamentais. 
+Recentemente, descobri uma aplicação de registo de notas online, o [**Notion**](https://www.notion.so). Esta plataforma munida dos mais variados templates, com um aspeto minimalista, pretende substituir os tradicionais cadernos e tornar a mobilidade e o acesso valores fundamentais. 
 Tirar apontamentos nas aulas e manter o trabalho organizado tornou-se mais fácil e prazeroso dado que a formatação do texto é automática, o tipo de letra é adequado a (quase) qualquer contexto, a inserção de qualquer tipo de conteúdo desde multimédia, trechos de código, citações, entre outros fica com um estilo quase impossível de reproduzir manualmente.
 
 ![image](https://user-images.githubusercontent.com/72624424/193142790-2706342c-3fe4-4c9e-948a-78a0de1fd180.png)
