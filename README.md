@@ -28,6 +28,7 @@ Caderno Digital - UC Desenvolvimento de Interfaces Multimédia '22
 (29.09.2022)
 1.Identificar Requisitos/Necessidades - **Compreender o problema** -
 
+
 2.Design(Planeamento) de Alternativas
 
 3.Prototipar(Desenvolvimento) - Modelação de features ao encontro dos aspetos centrais da tarefa/processo.
@@ -41,9 +42,13 @@ O Processo é **iterativo** pq depois da fase 4 voltamos à fase 1 → Cíclico
 Recentemente, descobri uma aplicação de registo de notas online, o [**Notion**](https://www.notion.so). Esta plataforma munida dos mais variados templates, com um aspeto minimalista, pretende substituir os tradicionais cadernos e tornar a mobilidade e o acesso valores fundamentais. 
 Tirar apontamentos nas aulas e manter o trabalho organizado tornou-se mais fácil e prazeroso dado que a formatação do texto é automática, o tipo de letra é adequado a (quase) qualquer contexto, a inserção de qualquer tipo de conteúdo desde multimédia, trechos de código, citações, entre outros fica com um estilo quase impossível de reproduzir manualmente.
 
+**Web**
 ![image](https://user-images.githubusercontent.com/72624424/193142790-2706342c-3fe4-4c9e-948a-78a0de1fd180.png)
 ![image](https://user-images.githubusercontent.com/72624424/193142854-1c1b6fb4-e4d5-4cba-aae8-1929c79554fc.png)
 ![image](https://user-images.githubusercontent.com/72624424/193143112-e7d5d35c-917c-4fe6-bb08-c10559e8684d.png)
+
+**Mobile**
+![Screenshot_2022-09-29-22-19-37-297_com android chrome](https://user-images.githubusercontent.com/72624424/193144172-284f9d7e-2142-4ca3-910a-c7a36c068a0d.jpg)
 
 
 
