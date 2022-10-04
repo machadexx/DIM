@@ -50,6 +50,19 @@ Tirar apontamentos nas aulas e manter o trabalho organizado tornou-se mais fáci
 **Mobile**
 ![Screenshot_2022-09-29-22-19-37-297_com android chrome](https://user-images.githubusercontent.com/72624424/193144172-284f9d7e-2142-4ca3-910a-c7a36c068a0d.jpg)
 
+___
+
+## História das Interfaces Multimédia
+(04.10.2022)
+
+Para compreender o presente é vital conhecer o passado. Como tal, aqui ficam algumas imagens ilustrativas neste âmbito.
+
+![Sketchpad](https://user-images.githubusercontent.com/72624424/193912221-a72eb881-cfb4-4346-8adc-914dd75e4b15.png)
+*Ivan Sutherland a apresentar um Sketchpad. Fonte:[Wikipedia](https://en.wikipedia.org/wiki/History_of_the_graphical_user_interface) *
+
+![Timeline](https://user-images.githubusercontent.com/72624424/193913257-b6bf045c-5329-48ef-a583-88f14dbaa4d8.png)
+*Linha Cronológica da Evolução das GUIs. Fonte:[Arstechnica](https://arstechnica.com/features/2005/05/gui/) *
+___
 
 
 
