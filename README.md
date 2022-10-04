@@ -59,11 +59,11 @@ Para compreender o presente é vital conhecer o passado. Como tal, aqui ficam al
 
 ![Sketchpad](https://user-images.githubusercontent.com/72624424/193912221-a72eb881-cfb4-4346-8adc-914dd75e4b15.png)
 
-*Ivan Sutherland a apresentar um Sketchpad. Fonte:[Wikipedia](https://en.wikipedia.org/wiki/History_of_the_graphical_user_interface)*
+*Ivan Sutherland a apresentar um Sketchpad. Fonte: [Wikipedia](https://en.wikipedia.org/wiki/History_of_the_graphical_user_interface)*
 
 ![Timeline](https://user-images.githubusercontent.com/72624424/193913257-b6bf045c-5329-48ef-a583-88f14dbaa4d8.png)
 
-*Linha Cronológica da Evolução das GUIs. Fonte:[Arstechnica](https://arstechnica.com/features/2005/05/gui/)*
+*Linha Cronológica da Evolução das GUIs. Fonte: [Arstechnica](https://arstechnica.com/features/2005/05/gui/)*
 ___
 
 
