@@ -64,8 +64,22 @@ Para compreender o presente é vital conhecer o passado. Como tal, aqui ficam al
 ![Timeline](https://user-images.githubusercontent.com/72624424/193913257-b6bf045c-5329-48ef-a583-88f14dbaa4d8.png)
 
 *Linha Cronológica da Evolução das GUIs. Fonte: [Arstechnica](https://arstechnica.com/features/2005/05/gui/)*
-___
 
+### Outros conceitos
+(10.10.2022)
+
+**Hypermedia** 
+ Hypertext + multimedia. Consiste em ligações para conteúdos multimédia.
+ 
+ **Skeuomorphism**
+ Técnica de design que consiste em harmonizar os elementos digitais com os físicos.
+ 
+ Exemplo (à esquerda):
+ 
+ ![SkeuomorphismApple](https://user-images.githubusercontent.com/72624424/194960843-d6a0d5e5-1529-4952-82c3-00d9f17759fd.png)
+
++Os Princípios de Mayer aplicados à Aprendizagem Multimédia rever
+___
 
 
 
