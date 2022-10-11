@@ -78,7 +78,15 @@ Para compreender o presente é vital conhecer o passado. Como tal, aqui ficam al
  
  ![SkeuomorphismApple](https://user-images.githubusercontent.com/72624424/194960843-d6a0d5e5-1529-4952-82c3-00d9f17759fd.png)
 
-+Os Princípios de Mayer aplicados à Aprendizagem Multimédia rever
+## Aprendizagem Multimédia
+(11.10.2022)
+
+A Teoria do processo de cognitivo através de conteúdos multimédia, esquematizada na imagem, demonstra como estes mesmos elementos conduzem ao conhecimento.
+
+![TeoriaAprendizagem](https://user-images.githubusercontent.com/72624424/195185799-b6947fdc-9710-49c1-bd1e-56c852883643.png)
+
+(desenvolver + na prox aula)
+
 ___
 
 
