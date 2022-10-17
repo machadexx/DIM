@@ -92,9 +92,9 @@ A Teoria do processo de cognitivo através de conteúdos multimédia, esquematiz
   2. Processamento essencial  
   3. Processamento generativo
     
-      ![Processo cognitivo](Multime%CC%81dia%20c08697f22e7b4ed2afff4f57270786f1/Untitled%201.png)
+      [Processo cognitivo](https://user-images.githubusercontent.com/72624424/196288832-a107675d-be0b-4b96-815e-fe9c695707d1.png)
     
-    Processo cognitivo
+    Processo cognitivo - Consultado em https://sites.google.com/site/teoriadacargacognitiva/a-contribuicao-dos-principios-da-teoria-da-carga-cognitiva-na-aprendizagem-multimedia/resumo-1, conteúdo da autoria de Estela Gomes.
     
   O processo de aprendizagem é tanto mais rentável quanto mais reduzida for a quantidade de ruído (conteúdo inútil), maior a quantidade de conteúdo importante e o controlo do modo de apresentação da mesma.
  
