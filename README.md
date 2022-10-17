@@ -85,8 +85,21 @@ A Teoria do processo de cognitivo através de conteúdos multimédia, esquematiz
 
 ![TeoriaAprendizagem](https://user-images.githubusercontent.com/72624424/195185799-b6947fdc-9710-49c1-bd1e-56c852883643.png)
 
-(desenvolver + na prox aula)
+### Cargas Cognitivas
+(17.10.2022)
 
+  1. Processamento supérfluo
+  2. Processamento essencial  
+  3. Processamento generativo
+    
+      ![Processo cognitivo](Multime%CC%81dia%20c08697f22e7b4ed2afff4f57270786f1/Untitled%201.png)
+    
+    Processo cognitivo
+    
+  O processo de aprendizagem é tanto mais rentável quanto mais reduzida for a quantidade de ruído (conteúdo inútil), maior a quantidade de conteúdo importante e o controlo do modo de apresentação da mesma.
+ 
+ //add slide a partir do 26 (revisao do ciclo d 4 etapas com + detalhe + clark & mayer E-learning and the Science of education)
+ //add "desafio" produto ou app e os seus potenciais users primarios, secundario e terciarios
 ___
 
 
