@@ -107,27 +107,44 @@ ____
    É errado arrancar ser ter todas estas bases bem construidas. Com esse objetivo, foram desenvolvidas técnicas de recolhas de dados.
    
    💁 Dados **Qualitativos** -- Porquês --
+   
         1. Observação naturalista
+        
         2. Grupos focais
+        
         3. Entrevistas
          
    💁 Dados **Quantitativos** -- Quês --
+   
         1. Inquéritos
+        
         2. User analytics
+        
          
    👉 Representação dos **Users**
+   
         1. Tabelas de características
+        
         2. Personas 
         
+        
    👉 Representação das **Tarefas**
+   
         1. Cenários
+        
         2. Casos de Uso
+        
         3. Análise hierárquica
+        
         4. Análise dos UI/UX atuais
+        
          
    🧍 Categorias de Users
+   
         **Primários** -> Cliente final
+        
         **Secundários** -> Obtêm informação despoletada pelo Cliente final
+        
         **Terciários** -> Não são diretamente users mas são condicionados pelo design do produto    
          
 ### Exemplo pessoal
@@ -140,37 +157,54 @@ ____
 *(21.10.2022)*
 
    👉 Considerações Éticas
+   
       1. Anonimato
+      
       2. Respeito das normas legais 
       
    👉 Observação naturalista
+   
       1. Conseguir analisar passado despercebido
+      
       2. Pouca interação com o utilizador
+      
       3. Registos de campo e análise qualitativa
       
    ❔ Questionários
+   
       1. *Self-report*
         a. Comportamento
         b. Perceções
         c. Atitudes
         d. Sensações
-       2. Items fechados -> Análise **Quantitativa**
+        
+       2. Items fechados -> Análise Quantitativa
         a. Dicotomias
         b. Escalas de Likert
-          ![image](https://user-images.githubusercontent.com/72624424/197281587-5e6e921e-0471-4389-9d29-98861e25fc73.png)
         c. Listas ordenadas
-       3. Items abertos -> Análise **Qualitativa**
+          
+       3. Items abertos -> Análise Qualitativa
         a. Opinião escrita por extenso pelo utilizador
         
    🧑‍🤝‍🧑 Grupos focais
+   
       1. 5 a 10 participantes
+      
       2. Requer 2 Investigadores
+      
       3. Máxima duração de 1 hora    
         
    🗣️ Tipos de Entrevistas
+   
       1. Estruturada
+      
       2. Aberta / Livre
+      
       3. Semi-Estruturada
+ 
+ Exemplo de Escala de Likert
+ 
+ ![image](https://user-images.githubusercontent.com/72624424/197281587-5e6e921e-0471-4389-9d29-98861e25fc73.png)   
 ___
 
 
