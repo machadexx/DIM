@@ -26,6 +26,7 @@ Caderno Digital - UC Desenvolvimento de Interfaces Multimédia '22
     
 ## Processo em Quatro Etapas
 *(29.09.2022)*
+
 1.Identificar Requisitos/Necessidades - **Compreender o problema** -
 
 2.Design(Planeamento) de Alternativas
