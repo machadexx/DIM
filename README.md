@@ -99,31 +99,36 @@ A Teoria do processo de cognitivo através de conteúdos multimédia, esquematiz
   O processo de aprendizagem é tanto mais rentável quanto mais reduzida for a quantidade de ruído (conteúdo inútil), maior a quantidade de conteúdo importante e o controlo do modo de apresentação da mesma.
 
 *(21.10.2022)*
+____
+
+### Aprendizagem Multimédia 
+
    Para compreender o problema devemos perguntar-nos questões como : Quem utiliza? , Onde, quando,como e porquê ao dia de hoje fazem determinada ação? , Quais as suas dificuldades? , Quais os seus desejos de melhorias para tais ações?
    É errado arrancar ser ter todas estas bases bem construidas. Com esse objetivo, foram desenvolvidas técnicas de recolhas de dados.
-     💁 Dados **Qualitativos** -- Porquês --
-         1. Observação naturalista
-         2. Grupos focais
-         3. Entrevistas
-         __
-     💁 Dados **Quantitativos** -- Quês --
-         1. Inquéritos
-         2. User analytics
-         __
-     👉 Representação dos **Users**
-         1. Tabelas de características
-         2. Personas 
-         __
-    👉 Representação das **Tarefas**
-         1. Cenários
-         2. Casos de Uso
-         3. Análise hierárquica
-         4. Análise dos UI/UX atuais
-         __
-     🧍 Categorias de Users
-         **Primários** -> Cliente final
-         **Secundários** -> Obtêm informação despoletada pelo Cliente final
-         **Terciários** -> Não são diretamente users mas são condicionados pelo design do produto    
+   
+   💁 Dados **Qualitativos** -- Porquês --
+        1. Observação naturalista
+        2. Grupos focais
+        3. Entrevistas
+         
+   💁 Dados **Quantitativos** -- Quês --
+        1. Inquéritos
+        2. User analytics
+         
+   👉 Representação dos **Users**
+        1. Tabelas de características
+        2. Personas 
+        
+   👉 Representação das **Tarefas**
+        1. Cenários
+        2. Casos de Uso
+        3. Análise hierárquica
+        4. Análise dos UI/UX atuais
+         
+   🧍 Categorias de Users
+        **Primários** -> Cliente final
+        **Secundários** -> Obtêm informação despoletada pelo Cliente final
+        **Terciários** -> Não são diretamente users mas são condicionados pelo design do produto    
          
 ### Exemplo pessoal
   Na minha opinião, quase qualquer produto, serviço ou produto/serviço, possuí estas 3 Categorias de Utilizadores. Contudo, como exemplo pessoal partilho o caso da Nintendo Switch. Uma consola de videojogos recente da Nintendo. Em relação a este produto, os utilizadores primários são todos os jogadores que adquiriram uma consola, os secundários são todos os elementos e equipas que desenvolvem, testam e distribuem. Já os terciários são os responsáveis por estas equipas (quer internas quer externas à Nintendo) devido ao impacto das avaliações dos utilizadores, as vendas da própria consola como de acessórios e dos jogos das mesmas, entre outros.
@@ -131,18 +136,19 @@ A Teoria do processo de cognitivo através de conteúdos multimédia, esquematiz
   [Unsplashed](https://unsplash.com/photos/NOBH7Rq7ZN8)
 
 ## Recolha de Dados
+
 *(21.10.2022)*
 
    👉 Considerações Éticas
       1. Anonimato
       2. Respeito das normas legais 
-      __
-    👉 Observação naturalista
+      
+   👉 Observação naturalista
       1. Conseguir analisar passado despercebido
       2. Pouca interação com o utilizador
       3. Registos de campo e análise qualitativa
-      __
-    ❔ Questionários
+      
+   ❔ Questionários
       1. *Self-report*
         a. Comportamento
         b. Perceções
@@ -155,13 +161,13 @@ A Teoria do processo de cognitivo através de conteúdos multimédia, esquematiz
         c. Listas ordenadas
        3. Items abertos -> Análise **Qualitativa**
         a. Opinião escrita por extenso pelo utilizador
-        __
-    🧑‍🤝‍🧑 Grupos focais
+        
+   🧑‍🤝‍🧑 Grupos focais
       1. 5 a 10 participantes
       2. Requer 2 Investigadores
       3. Máxima duração de 1 hora    
-        __
-    🗣️ Tipos de Entrevistas
+        
+   🗣️ Tipos de Entrevistas
       1. Estruturada
       2. Aberta / Livre
       3. Semi-Estruturada
