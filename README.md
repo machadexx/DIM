@@ -2,7 +2,7 @@
 Caderno Digital - UC Desenvolvimento de Interfaces Multimédia '22 
 
 ## Affordances, Signifiers, Feedback 
-(26.09.2022)
+*(26.09.2022)*
   
   Em menos de 40 segundos, este vídeo consegue clarificar o significado do termo Affordance.
   
@@ -25,9 +25,8 @@ Caderno Digital - UC Desenvolvimento de Interfaces Multimédia '22
    Em suma, interpreto estes conceitos como: Affordances remete para a interação física que temos com objetos/interfaces e Signifiers representam a interação cognitiva.
     
 ## Processo em Quatro Etapas
-(29.09.2022)
+*(29.09.2022)*
 1.Identificar Requisitos/Necessidades - **Compreender o problema** -
-
 
 2.Design(Planeamento) de Alternativas
 
@@ -53,7 +52,7 @@ Tirar apontamentos nas aulas e manter o trabalho organizado tornou-se mais fáci
 ___
 
 ## História das Interfaces Multimédia
-(04.10.2022)
+*(04.10.2022)*
 
 Para compreender o presente é vital conhecer o passado. Como tal, aqui ficam algumas imagens ilustrativas neste âmbito.
 
@@ -66,7 +65,7 @@ Para compreender o presente é vital conhecer o passado. Como tal, aqui ficam al
 *Linha Cronológica da Evolução das GUIs. Fonte: [Arstechnica](https://arstechnica.com/features/2005/05/gui/)*
 
 ### Outros conceitos
-(10.10.2022)
+*(10.10.2022)*
 
 **Hypermedia** 
  Hypertext + multimedia. Consiste em ligações para conteúdos multimédia.
@@ -79,27 +78,92 @@ Para compreender o presente é vital conhecer o passado. Como tal, aqui ficam al
  ![SkeuomorphismApple](https://user-images.githubusercontent.com/72624424/194960843-d6a0d5e5-1529-4952-82c3-00d9f17759fd.png)
 
 ## Aprendizagem Multimédia
-(11.10.2022)
+*(11.10.2022)*
 
 A Teoria do processo de cognitivo através de conteúdos multimédia, esquematizada na imagem, demonstra como estes mesmos elementos conduzem ao conhecimento.
 
 ![TeoriaAprendizagem](https://user-images.githubusercontent.com/72624424/195185799-b6947fdc-9710-49c1-bd1e-56c852883643.png)
 
 ### Cargas Cognitivas
-(17.10.2022)
+*(17.10.2022)*
 
   1. Processamento supérfluo
   2. Processamento essencial  
   3. Processamento generativo
     
-      [Processo cognitivo](https://user-images.githubusercontent.com/72624424/196288832-a107675d-be0b-4b96-815e-fe9c695707d1.png)
+      ![Processo cognitivo](https://user-images.githubusercontent.com/72624424/196288832-a107675d-be0b-4b96-815e-fe9c695707d1.png)
     
     Processo cognitivo - Consultado em https://sites.google.com/site/teoriadacargacognitiva/a-contribuicao-dos-principios-da-teoria-da-carga-cognitiva-na-aprendizagem-multimedia/resumo-1, conteúdo da autoria de Estela Gomes.
     
   O processo de aprendizagem é tanto mais rentável quanto mais reduzida for a quantidade de ruído (conteúdo inútil), maior a quantidade de conteúdo importante e o controlo do modo de apresentação da mesma.
- 
- //add slide a partir do 26 (revisao do ciclo d 4 etapas com + detalhe + clark & mayer E-learning and the Science of education)
- //add "desafio" produto ou app e os seus potenciais users primarios, secundario e terciarios
+
+*(21.10.2022)*
+   Para compreender o problema devemos perguntar-nos questões como : Quem utiliza? , Onde, quando,como e porquê ao dia de hoje fazem determinada ação? , Quais as suas dificuldades? , Quais os seus desejos de melhorias para tais ações?
+   É errado arrancar ser ter todas estas bases bem construidas. Com esse objetivo, foram desenvolvidas técnicas de recolhas de dados.
+     💁 Dados **Qualitativos** -- Porquês --
+         1. Observação naturalista
+         2. Grupos focais
+         3. Entrevistas
+         __
+     💁 Dados **Quantitativos** -- Quês --
+         1. Inquéritos
+         2. User analytics
+         __
+     👉 Representação dos **Users**
+         1. Tabelas de características
+         2. Personas 
+         __
+    👉 Representação das **Tarefas**
+         1. Cenários
+         2. Casos de Uso
+         3. Análise hierárquica
+         4. Análise dos UI/UX atuais
+         __
+     🧍 Categorias de Users
+         **Primários** -> Cliente final
+         **Secundários** -> Obtêm informação despoletada pelo Cliente final
+         **Terciários** -> Não são diretamente users mas são condicionados pelo design do produto    
+         
+### Exemplo pessoal
+  Na minha opinião, quase qualquer produto, serviço ou produto/serviço, possuí estas 3 Categorias de Utilizadores. Contudo, como exemplo pessoal partilho o caso da Nintendo Switch. Uma consola de videojogos recente da Nintendo. Em relação a este produto, os utilizadores primários são todos os jogadores que adquiriram uma consola, os secundários são todos os elementos e equipas que desenvolvem, testam e distribuem. Já os terciários são os responsáveis por estas equipas (quer internas quer externas à Nintendo) devido ao impacto das avaliações dos utilizadores, as vendas da própria consola como de acessórios e dos jogos das mesmas, entre outros.
+  ![image](https://user-images.githubusercontent.com/72624424/197280407-4905f346-8d13-4643-9e48-66fa5b5aff23.png)
+  [Unsplashed](https://unsplash.com/photos/NOBH7Rq7ZN8)
+
+## Recolha de Dados
+*(21.10.2022)*
+
+   👉 Considerações Éticas
+      1. Anonimato
+      2. Respeito das normas legais 
+      __
+    👉 Observação naturalista
+      1. Conseguir analisar passado despercebido
+      2. Pouca interação com o utilizador
+      3. Registos de campo e análise qualitativa
+      __
+    ❔ Questionários
+      1. *Self-report*
+        a. Comportamento
+        b. Perceções
+        c. Atitudes
+        d. Sensações
+       2. Items fechados -> Análise **Quantitativa**
+        a. Dicotomias
+        b. Escalas de Likert
+          ![image](https://user-images.githubusercontent.com/72624424/197281587-5e6e921e-0471-4389-9d29-98861e25fc73.png)
+        c. Listas ordenadas
+       3. Items abertos -> Análise **Qualitativa**
+        a. Opinião escrita por extenso pelo utilizador
+        __
+    🧑‍🤝‍🧑 Grupos focais
+      1. 5 a 10 participantes
+      2. Requer 2 Investigadores
+      3. Máxima duração de 1 hora    
+        __
+    🗣️ Tipos de Entrevistas
+      1. Estruturada
+      2. Aberta / Livre
+      3. Semi-Estruturada
 ___
 
 
