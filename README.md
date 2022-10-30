@@ -207,5 +207,27 @@ ____
  ![image](https://user-images.githubusercontent.com/72624424/197281587-5e6e921e-0471-4389-9d29-98861e25fc73.png)   
 ___
 
+## Novo Design
 
+ > "O descontentamento é o primeiro passo na evolução de um homem ou de uma nação." -Oscar Wilde
 
+A mudança, apesar de nem sempre ser de fácil aceitação, é imprescíndivel para o sucesso, a evolução e a melhoria contínua de qualquer processo.
+
+Como tal, aplicando o conceito ao Design, devem ser analisados todos os pontos fracos do mesmo, bem como as valiosíssimas análises e críticas elaboradas pelos utilizadores primários.
+
+Na teoria, é sempre procurada a satisfação das necessidades dos utilizadores primários, contudo, é de elevada importância não desvalorizar os secundários e terciários.
+
+  
+  ▶️ Pode implicar:
+  
+      1. Ajustes nos inputs e outputs;
+
+      2. Reconstrução do zero do sistema.
+      
+### Exemplo pessoal
+Em contexto de deslocações profissionais, por vezes, necessito de utilizar aplicações como a Uber. Não me recordo exatamente na versão em que isto foi implementado mas, agora, é possível, na aplicação base, aceder a todos os serviços disponibilizados pela empresa desde o próprio Uber ao Uber Eats. Acho que é uma excelente atualização, não só para o utilizador primário, mas também para os secundário e terciário dado que, para o primário, pode consumir todos os serviços numa plataforma só, não tem de instalar mais aplicações. Por outro lado, para os secundários, acredito que seja mais simples de extrair os dados que necessitam acabando por tornar mais ágil a sua monitorização e, consequentemente, beneficiando o utilizador terciário.
+
+![image](https://user-images.githubusercontent.com/72624424/198881838-87ffb05a-86ce-4e60-93da-458c74efe714.png)
+
+___
+(cont dps do teste de marketing)
