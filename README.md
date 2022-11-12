@@ -264,4 +264,10 @@ Análise da concorrência:
   ![image](https://user-images.githubusercontent.com/72624424/201488065-b5ece60f-6ca2-4a42-85b3-8546a2a75b4b.png)
   
           Landing Page
+  ![image](https://user-images.githubusercontent.com/72624424/201488191-10399c45-74d0-4577-8d2f-7077d7ec5e5a.png)
+          
+           Detalhe Album
   
+  ![image](https://user-images.githubusercontent.com/72624424/201488156-2379e9b0-a925-4516-a0cd-5aa579a02b7f.png)
+          
+           Detalhe track
