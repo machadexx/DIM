@@ -233,6 +233,35 @@ ___
 
 ## SoundB - Projeto Prático
 Sound DataBase
+Objetivo -> Galeria de albuns/artistas gratuita com uma interface estilo flat.
 
+![image](https://user-images.githubusercontent.com/72624424/201487630-6091cc0c-b77d-4105-8dc1-7aa0fa2ab652.png)
 
+Análise da concorrência:
 
+  1.Discogs (https://www.discogs.com)
+  ![image](https://user-images.githubusercontent.com/72624424/201487786-65dfe3e3-00cd-46cf-921c-779a9bfa16d1.png)
+    
+          Landing Page
+  ![image](https://user-images.githubusercontent.com/72624424/201487827-92fc8e0a-7a10-4c93-9c24-971ba577004d.png)
+    
+          Discover
+  ![image](https://user-images.githubusercontent.com/72624424/201487990-de2054d8-4f38-4d5d-a20c-ca035b534b85.png)
+      
+           Detalhe Album
+      
+  2.AllMusic (https://www.allmusic.com)
+  ![image](https://user-images.githubusercontent.com/72624424/201487885-fcb370e6-47e2-4a9b-9aa6-aa39561e45d5.png)
+
+          Landing Page
+  ![image](https://user-images.githubusercontent.com/72624424/201487929-0e6e7f1b-a058-483b-b218-53df973d2297.png)
+          
+           Discover
+  ![image](https://user-images.githubusercontent.com/72624424/201487954-8286beb3-f35f-47bd-a036-655f70bcaae2.png)
+  
+          Detalhe Album
+  3.last.fm (https://www.last.fm)
+  ![image](https://user-images.githubusercontent.com/72624424/201488065-b5ece60f-6ca2-4a42-85b3-8546a2a75b4b.png)
+  
+          Landing Page
+  
