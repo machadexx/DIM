@@ -271,3 +271,28 @@ Análise da concorrência:
   ![image](https://user-images.githubusercontent.com/72624424/201488156-2379e9b0-a925-4516-a0cd-5aa579a02b7f.png)
           
            Detalhe track
+
+
+### Wireframe
+criado no [uizard.com](https://app.uizard.io/prototypes/XXY6JgxaoBixWjlaKRZO)
+
+💿 - Albums
+![image](https://user-images.githubusercontent.com/72624424/203647128-3340d7ce-9a63-4d8a-b456-54d4f878dd97.png)
+
+    Ecrã 1
+🎤 🧑‍🦱 - Artists
+![image](https://user-images.githubusercontent.com/72624424/203647641-b47e4386-bc4b-4a85-b6b4-426801fad00d.png)
+
+    Ecrã 2
+    
+⬛ - Expanded Cards
+![image](https://user-images.githubusercontent.com/72624424/203648092-5fdd2b15-504e-41d0-8072-77d8904cee9b.png)
+
+    Ecrã 2
+
+📉 - Graphs
+![image](https://user-images.githubusercontent.com/72624424/203647851-a6340398-8553-44a8-b0a6-4a699f3d2f08.png)
+      
+    Ecrã 3
+
+
