@@ -300,14 +300,21 @@ criado no [uizard.com](https://app.uizard.io/prototypes/XXY6JgxaoBixWjlaKRZO)
 ⬛ - Expanded Cards
 ![3](https://user-images.githubusercontent.com/72624424/204658577-f3354a5e-0840-448d-92f6-64a860048867.png)
 
+    Ecrã 2
 📉 - Graphs
 ![4](https://user-images.githubusercontent.com/72624424/204658636-477e2c0c-c632-4d6d-843b-6a4ca35cdb91.png)
+
+    Ecrã 3
 
 🎤 🧑‍🦱 - Artists
 ![5](https://user-images.githubusercontent.com/72624424/204658679-71f971b1-808f-40fe-8481-f1defa5143d3.png)
 
+    Ecrã 2
 💿 - Albums
 ![6](https://user-images.githubusercontent.com/72624424/204658740-a51d3767-0745-46b1-a9b5-68e767df2092.png)
 
+    Ecrã 2
 Footer explained
 ![9](https://user-images.githubusercontent.com/72624424/204658813-ac9bfa4a-6d51-4aa4-8141-cf649ae46f75.png)
+
+    Todos
