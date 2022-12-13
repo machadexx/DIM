@@ -318,3 +318,91 @@ Footer explained
 ![9](https://user-images.githubusercontent.com/72624424/204658813-ac9bfa4a-6d51-4aa4-8141-cf649ae46f75.png)
 
     Todos
+______
+
+### Hi-Fi (13/12)
+criado no [figma](https://www.figma.com)
+
+Estudo da paleta de cores mais adequada.
+
+![image](https://user-images.githubusercontent.com/72624424/207446460-58f8ca6b-ee27-43cf-bbde-c023f92d9b68.png)
+    [Coolors](https://coolors.co/palette/ef7674-ec5766-da344d-d91e36-c42348)
+
+    Vermelhos 
+    
+ ![image](https://user-images.githubusercontent.com/72624424/207445648-2fc08501-624f-4abf-bcf6-16b977704dad.png)
+  
+      Tentativa com Vermelhos
+
+Utilizando estes tons, rapidamente mudei de ideias devido a ser muito claro, agressivo tanto na denotação dos tons quanto na semantica da cor e nada adequado ao âmbito da aplicação.
+
+De seguida, experimentei tons mais escuros.
+
+![image](https://user-images.githubusercontent.com/72624424/207446126-255a3157-99e3-4066-a1d9-c52e5e20674a.png)
+    [Coolors](https://coolors.co/palette/3a015c-4f0147-35012c-290025-11001c)
+
+    Dark tones de roxo 
+
+Testei também pure black como fundo (mesmo sabendo que não é indicado) para fins de teste.
+
+![image](https://user-images.githubusercontent.com/72624424/207447981-8172ae64-caf9-4de7-aa5e-ebfd7c70f13e.png)
+
+Mas, a gosto pessoal, não gostei nem me identifiquei com estes tons. Experimentei inventar um pouco com base em publicações que vejo nas redes sociais sobre UI/UX e "boas práticas" na escolha e pintura das aplicações tanto pelo lado estético, funcional, questões de acessibilidade, saúde e gosto pessoal.
+Terminando, assim, com a seguinte paleta.
+
+![image](https://user-images.githubusercontent.com/72624424/207447727-a65d5069-19d8-486a-90a5-77aab6126344.png)
+    [Coolors](https://coolors.co/000000-0d122d-111b39-313c61-ffffff)
+
+    Tons de azul estilo dark mode
+
+O resultado final foi o seguinte.
+
+![image](https://user-images.githubusercontent.com/72624424/207448462-e8ac1d78-65d4-4d30-896d-3035d088d0a4.png)
+
+    Albums
+
+![image](https://user-images.githubusercontent.com/72624424/207448525-3c77a27e-6745-40c2-804e-79a1ce0c9770.png)
+ 
+    Album Detalhe
+
+![image](https://user-images.githubusercontent.com/72624424/207448586-db952acb-7731-44fa-9ab7-4b01f6bf498b.png)
+
+    Artista
+    
+![image](https://user-images.githubusercontent.com/72624424/207448672-1540f55b-3785-4845-bee3-a1c5e2755630.png)
+
+    Artista Detalhe
+    
+
+Na imagem 2 e 4 tentei aplicar o efeito de glassmorphism.. ainda que sem grande sucesso, gostei do resultado final e achei o contraste bastante subtil mas o suficente para se notar que é um detalhe e com um jogo de cores agradável.
+
+
+Quanto à pagina de Analytics, inspirei-me nas plataformas [Last.fm](https://www.last.fm) cuja página inical está recheada de informação de artistas/albums e faixas em alta e no [Billboard](https://www.billboard.com/charts/hot-100/).
+
+![image](https://user-images.githubusercontent.com/72624424/207449107-dc9c34dd-6328-40cd-b103-5ee13042f0e4.png)
+
+![image](https://user-images.githubusercontent.com/72624424/207449142-293b0ffa-965f-4a4b-8aa8-ed30015ed1db.png)
+
+![image](https://user-images.githubusercontent.com/72624424/207449573-821af26d-ffb9-48ec-837b-801f2c104cc3.png)
+
+![image](https://user-images.githubusercontent.com/72624424/207449679-47c38941-36e2-4fd9-8783-ac95c20ae0e5.png)
+
+![image](https://user-images.githubusercontent.com/72624424/207449822-d304f696-6a2a-4fd7-a983-72d8857c07db.png)
+    
+    Last.fm
+
+![image](https://user-images.githubusercontent.com/72624424/207450163-8d231a2f-a9df-48a4-92d9-1b427573c75e.png)
+
+    Billboard
+    
+Com o auxilio de um template procurei costumizar uma imitação do top 100
+
+![image](https://user-images.githubusercontent.com/72624424/207453983-402c9428-1fdd-46c5-8674-50dc167d5d03.png)
+
+    
+
+
+
+
+
+
