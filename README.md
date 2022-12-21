@@ -394,13 +394,46 @@ Quanto à pagina de Analytics, inspirei-me nas plataformas [Last.fm](https://www
 ![image](https://user-images.githubusercontent.com/72624424/207450163-8d231a2f-a9df-48a4-92d9-1b427573c75e.png)
 
     Billboard
-    
+
+### 21/12
+
 Com o auxilio de um template procurei costumizar uma imitação do top 100
 
 ![image](https://user-images.githubusercontent.com/72624424/207453983-402c9428-1fdd-46c5-8674-50dc167d5d03.png)
 
-    
 
+A nível do footer, achei importante testar duas variações de tonalidades dos icons quando o utilizador está numa determinada página.
+
+![image](https://user-images.githubusercontent.com/72624424/208984095-696ba78d-cda2-4084-ac14-594907d461bc.png)
+    
+    Teste Azul 
+    
+De seguida, testei o mais comum exemplo do contraste branco / cinza que me pareceu muito mais harmónico.
+
+![image](https://user-images.githubusercontent.com/72624424/208984239-6f4c1432-b47d-4d6f-b91c-ee89db9befa5.png)
+
+    Teste Branco/Cinza 
+
+
+Ao efetuar este teste para todas as possibilidades, quanto ao terceiro ecrã (Trends), o ícone a branco não ficava tão evidente quando aos demais. Por isso, decidi avaliar 
+
+![image](https://user-images.githubusercontent.com/72624424/208984585-0da84f36-3adc-4f8f-92df-551eca61f9c6.png)
+
+    Icone 1
+  
+![image](https://user-images.githubusercontent.com/72624424/208984616-014ad31e-f117-4c78-8743-79d92f4e809d.png)
+
+    Icone 2
+    
+![image](https://user-images.githubusercontent.com/72624424/208984665-96c0164f-4b39-4173-ae9a-fedbab4d33e8.png)
+  
+    Icone 3 (Final)
+    
+Apesar de ser ligeiramente mais "espesso" que os restantes, achei que fosse o que melhor representasse visualmente o pretendido.
+
+
+
+  
 
 
 
