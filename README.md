@@ -431,6 +431,26 @@ Ao efetuar este teste para todas as possibilidades, quanto ao terceiro ecrã (Tr
     
 Apesar de ser ligeiramente mais "espesso" que os restantes, achei que fosse o que melhor representasse visualmente o pretendido.
 
+## 08/01
+
+Após varias horas de desenvolvimento, pesquisa e tentativas. Apresento a versão final do protótipo de alta fidelidade do SoundB.
+
+![image](https://user-images.githubusercontent.com/72624424/211211968-adaae932-23a2-4c8b-b1b8-e7cc2263cf9a.png)
+
+![image](https://user-images.githubusercontent.com/72624424/211211977-ac841747-902c-40d7-afbe-17362c1630dd.png)
+
+![image](https://user-images.githubusercontent.com/72624424/211211993-30463da1-b039-4691-b07c-8586e60ce8dc.png)
+
+![image](https://user-images.githubusercontent.com/72624424/211212005-9490b8f9-7814-4aa5-83c2-5998cc936952.png)
+
+![image](https://user-images.githubusercontent.com/72624424/211212016-d7fb07d0-9ee3-4f4f-8eb9-a37e46d6b4cb.png)
+
+![image](https://user-images.githubusercontent.com/72624424/211212026-655954d0-abd5-4b9b-bafe-748d0f0a7d0b.png)
+
+![image](https://user-images.githubusercontent.com/72624424/211212041-7e3cde3b-bdf9-4b91-80b4-022fde01a4b1.png)
+
+![image](https://user-images.githubusercontent.com/72624424/211212051-759cda01-ea2a-480d-ae88-09abab5548ab.png)
+
 
 
   
