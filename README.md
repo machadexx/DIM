@@ -452,9 +452,11 @@ Após varias horas de desenvolvimento, pesquisa e tentativas. Apresento a versã
 ![image](https://user-images.githubusercontent.com/72624424/211212051-759cda01-ea2a-480d-ae88-09abab5548ab.png)
 
 
+## 15/01
 
-  
+Depois de muitas horas investidas, tentativas e estudos diferentes, apresento o protótipo final do meu projeto.
 
+![Hi-Fi SoundB](https://user-images.githubusercontent.com/72624424/212562761-46954154-4240-481c-b79f-0ecc4a318596.png)
 
 
 
